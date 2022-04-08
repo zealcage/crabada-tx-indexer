@@ -1,0 +1,7 @@
+/app/config/config.js
+/app/config/env.js
+/node_modules
+.env
+app/mongodbConfig/env.js
+app/mongodbConfig/mongodb.config.js
+enersee-firebase-adminsdk.json
